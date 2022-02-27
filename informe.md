@@ -1,5 +1,5 @@
 # INFORME - 01
-### 20/27/2022 | 11:01 am
+### 02/27/2022 | 11:01 am
 
 El problema con los micrófonos no se debe a una mala configuración de los canales de voz en discord, sino, se debe a la configuración de cada usuario; como la entrada y salida de voz y audio, así como; el modo de entrada: Actividad de voz (por defecto), Pulsar para hablar (asignar una letra par poder hablar). 
 
