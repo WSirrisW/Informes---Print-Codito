@@ -1,4 +1,4 @@
-<center><h1>INFORME-01</h1></center>
+<center> <h1>INFORME - 01</h1> </center>
 <h3>02/27/2022 | 11:01 am</h3>
 
 
