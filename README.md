@@ -3,7 +3,7 @@
 
 
 <p align="center">
-   <img src="../img/logo-print-codito.png">
+   <img src="img/logo-print-codito.png">
 </p>
 
 ----------------------------------------------------------------
