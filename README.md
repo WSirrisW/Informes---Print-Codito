@@ -28,4 +28,4 @@ El problema con los micrófonos no se debe a una mala configuración de los cana
 En resumen, la falla que tienen los usuarios al momento de hablar se debe a su configuración, además como algunos de los usuarios son nuevos en discord, talvez no tengan bien configurado los ajustes de aplicación / Voz y video.
 
 
-Para mas Información [Clic aquí](https://www.youtube.com/watch?v=ZqxjDCEZBGg)
+Para mas Información [Clic aquí](https://youtu.be/ZqxjDCEZBGg?t=64)
