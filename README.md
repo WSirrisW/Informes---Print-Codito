@@ -1,6 +1,12 @@
-# INFORME - 01
-### 02/27/2022 | 11:01 am
+<center><h1>INFORME - 01</h1></center>
+<h3>02/27/2022 | 11:01 am</h3>
 
+
+<p align="center">
+   <img src="../informe01/img/logo-print-codito.png">
+</p>
+
+----------------------------------------------------------------
 El problema con los micrófonos no se debe a una mala configuración de los canales de voz en discord, sino, se debe a la configuración de cada usuario; como la entrada y salida de voz y audio, así como; el modo de entrada: Actividad de voz (por defecto), Pulsar para hablar (asignar una letra par poder hablar). 
 
 <p align="center">
