@@ -11,6 +11,7 @@ _**<p><h1 align="center">INFORMES DE CAMBIOS GENERALES Y REPORTE DE ERRORES</h1>
 
 
 ──────────────────────── 【🎶】𝙎𝙤𝙘𝙞𝙖𝙡  ────────────────────────────────────
+
 【📝】 [Informe - 01](https://github.com/WSirrisW/Informes-Print-Codito/blob/main/informe01.md)
 
 
