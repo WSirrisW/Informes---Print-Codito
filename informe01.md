@@ -1,6 +1,5 @@
-<center> <h1>INFORME - 01</h1> </center>
+**<p><h1 align="center">INFORME - 01</h1></p>**
 <h3>02/27/2022 | 11:01 am</h3>
-
 
 <p align="center">
    <img src="img/logo-print-codito.png">
