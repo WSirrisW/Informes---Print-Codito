@@ -9,8 +9,8 @@ _**<p><h1 align="center">INFORMES DE CAMBIOS GENERALES Y REPORTE DE ERRORES</h1>
 
 
 
-<p><h2 align="center">Print Codito</h2></p>
-<p><h2 align="center">Marzo 2022</h2></p>
+<p><h3 align="center">Print Codito</h3></p>
+<p><h3 align="center">Marzo 2022</h3></p>
 
 
 
