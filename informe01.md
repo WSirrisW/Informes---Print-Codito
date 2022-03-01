@@ -28,5 +28,3 @@ En resumen, la falla que tienen los usuarios al momento de hablar se debe a su c
 
 
 Para más Información [Clic aquí](https://youtu.be/ZqxjDCEZBGg?t=64)
-
-Para más Información <a href="https://youtu.be/ZqxjDCEZBGg?t=64H" target="_blank">Clic aquí</a>
