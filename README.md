@@ -10,7 +10,7 @@ _**<p><h1 align="center">INFORMES DE CAMBIOS GENERALES Y REPORTE DE ERRORES</h1>
 <p><h3 align="center">Marzo 2022</h3></p>
 
 
-────── 【📝】𝙎𝙤𝙘𝙞𝙖𝙡  ──────
+────── 【📝】𝙄𝙉𝙁𝙊𝙍𝙈𝙀𝙎  ──────
 
 【📝】 ==> [Informe - 01](https://github.com/WSirrisW/Informes-Print-Codito/blob/main/informe01.md)
 
