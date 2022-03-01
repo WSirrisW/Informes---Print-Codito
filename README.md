@@ -1,4 +1,4 @@
-p align="center">
+ <p align="center">
    <img src="img/logo-print-codito.png">
 </p>
 
