@@ -9,5 +9,5 @@ _**<p><h1 align="center">INFORMES DE CAMBIOS GENERALES Y REPORTE DE ERRORES</h1>
 
 - Voz y Audio => [Informe - 01](https://github.com/WSirrisW/Informes-Print-Codito/blob/main/informe01.md)
 
-
+- Cambios Generales y Esteticos => 
 
